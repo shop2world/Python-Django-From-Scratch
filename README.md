@@ -35,8 +35,48 @@ install dependencies with pip install -r requirements.txt
 Now you can run the project with this command
 
 
-  python manage.py runserver
+      python manage.py runserver
 
 and connect with your local adress
 
       http://127.0.0.1:8000/polls/
+
+
+
+
+프로젝트 소스 실행하기
+
+
+가상환경 만들기
+
+
+      pip install virtualenv
+
+      virtualenv env
+
+만들어진가상환경실행하기 mac/linux:
+
+      source env/bin/active
+
+창문스의 경우 
+
+      source env/Scripts/
+
+
+필요 프로그램 설치 하기 pip install -r requirements.txt 로 한번에!
+
+      pip install -r requirements.txt
+
+
+
+그럼 이제 실행해 보세요!
+
+      python manage.py runserver
+
+그리고 접속해 보아요
+
+      http://127.0.0.1:8000/polls/
+
+
+
+강의 문의는 샵투스쿨로

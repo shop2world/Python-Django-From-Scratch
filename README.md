@@ -79,4 +79,5 @@ and connect with your local adress
 
 
 
-강의 문의는 샵투스쿨로
+# [무료 강의] 밑바닥 부터 시작하는 파이썬 장고 Python Django From Scratch
+https://www.shop2world.com/blog/archives/9029

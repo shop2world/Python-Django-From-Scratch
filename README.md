@@ -12,31 +12,31 @@ Running this project
 
 Create a virtualenv with virtualenv env 
 
-pip install virtualenv
+  pip install virtualenv
 
-virtualenv env
+  virtualenv env
 
 
 That will create a new folder env in your project directory. Next activate it with this command on mac/linux:
 
-source env/bin/active
+  source env/bin/active
 
 Window
 
-source env/Scripts/
+  source env/Scripts/
 
 
 install dependencies with pip install -r requirements.txt
 
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
 
 
 Now you can run the project with this command
 
 
-python manage.py runserver
+  python manage.py runserver
 
-and connect with this adress
+and connect with your local adress
 
 http://127.0.0.1:8000/polls/

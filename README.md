@@ -12,23 +12,23 @@ Running this project
 
 Create a virtualenv with virtualenv env 
 
-  pip install virtualenv
 
-  virtualenv env
+      pip install virtualenv
 
+      virtualenv env
 
 That will create a new folder env in your project directory. Next activate it with this command on mac/linux:
 
-  source env/bin/active
+      source env/bin/active
 
 Window
 
-  source env/Scripts/
+      source env/Scripts/
 
 
 install dependencies with pip install -r requirements.txt
 
-  pip install -r requirements.txt
+      pip install -r requirements.txt
 
 
 

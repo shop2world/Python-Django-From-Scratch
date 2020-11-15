@@ -1,5 +1,11 @@
 # Python-Django-From-Scratch
-밑바닥 부터 시작하는 파이썬 장고 Python Django From Scratch
+
+# 밑바닥 부터 시작하는 파이썬 장고 Python Django From Scratch
+
+
+![alt text](https://raw.githubusercontent.com/shop2world/Python-Django-From-Scratch/master/logopythondjango2.jpg)
+
+
 
 Running this project
 

@@ -21,7 +21,7 @@ That will create a new folder env in your project directory. Next activate it wi
 
       source env/bin/active
 
-Window
+Window : run activate in the Script folder path
 
       source env/Scripts/
 
@@ -58,7 +58,7 @@ and connect with your local adress
 
       source env/bin/active
 
-창문스의 경우 
+창문스의 경우 - 아래 폴더에서 activate 실행
 
       source env/Scripts/
 

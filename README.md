@@ -7,7 +7,7 @@
 
 
 
-Running this project
+# Running this project
 
 
 Create a virtualenv with virtualenv env 
@@ -44,7 +44,7 @@ and connect with your local adress
 
 
 
-프로젝트 소스 실행하기
+# 프로젝트 소스 실행하기
 
 
 가상환경 만들기
